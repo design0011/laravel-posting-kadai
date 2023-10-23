@@ -25,7 +25,7 @@
           </div>
           <div class="form-group mb-3">
             <label for="content">本文</label>
-            <textarea class="form-control" name="content">{{ old('content') }}></textarea>
+            <textarea class="form-control" name="content">{{ old('content') }}</textarea>
           </div>
           <button type="submit" class="btn btn-outline-primary">投稿</button>
         </form>
